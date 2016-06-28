@@ -3,7 +3,12 @@
 import UIKit
 import Darwin
 
-/*given a function that calculates and return a random Value between  0 to n,we must create a function that
+/*
+ By: Pedro Luis Cabrera Acosta, https://github.com/Peis7/, ing.cabrera.acosta@gmail.com
+ I would like you to share your opinion with me,comments, suggestions,bugs.
+ compiled with codeblocks 16.01C++11 ISO, 27/06/2016
+ 
+ given a function that calculates and return a random Value between  0 to n,we must create a function that
  return a RANDOM value  between 0 to n+1.
  Conditions:
  1.- We can  not  modify the original function that calculate the random value (arc4random_uniform) and
