@@ -45,3 +45,5 @@ for x in 1..<50{
     randomPlusOne(n)//but now here we can get random  values between 0 and n, as we want it
   
 }
+
+
